@@ -3,7 +3,7 @@ Projeto desenvolvido na Next Lvl Week 01
 
 O projeto tem a intenção de unir de forma rápida e direta locais que fazem coleta especializada de residuos, com as pessoas que precisa descartar tais residuos
 
-##Começando
+#Começando
 As ferramentas utilizadas para a construção do projeto foram:
 
 - [React.js: Necessário para a Aplicação Web(FrontEnd)](https://reactjs.org)
@@ -11,11 +11,11 @@ As ferramentas utilizadas para a construção do projeto foram:
 - [Node.js: Necessário para o funcionamento do BackEnd da aplicação](https://nodejs.org/en/download/)
 - [SQLite database: Para o acesso ao banco de dados da aplicação](https://www.sqlite.org/index.html)
 
-##Features
+#Features
 
 O projeto pode servir como um modelo inicial para uma aplicação web e mobile completa, repleta de funcionalidades
 
-##Links
+#Links
 
 - [Typescript](https://www.typescriptlang.org)
 - [Expressjs](https://expressjs.com)
